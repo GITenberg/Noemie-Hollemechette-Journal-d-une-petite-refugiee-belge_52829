@@ -1,11 +1,14 @@
 _repo: Noemie-Hollemechette-Journal-d-une-petite-refugiee-belge_52829
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Dutriac, Georges-Pierre
     alias: Dutriac, G. (Georges)
     gutenberg_agent_id: '47066'
     url: http://www.gutenberg.org/2009/agents/47066
+covers:
+- cover_type: archival
+  image_path: 52829-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Genestoux, Magdeleine
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '47065'
     url: http://www.gutenberg.org/2009/agents/47065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52829#Noemie-Hollemechette-Journal-d-une-petite-refugiee-belge
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Jeunesse
