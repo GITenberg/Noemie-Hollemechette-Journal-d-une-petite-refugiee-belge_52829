@@ -1,0 +1,33 @@
+_repo: Noemie-Hollemechette-Journal-d-une-petite-refugiee-belge_52829
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dutriac, Georges-Pierre
+    alias: Dutriac, G. (Georges)
+    gutenberg_agent_id: '47066'
+    url: http://www.gutenberg.org/2009/agents/47066
+creator:
+  author:
+    agent_name: Du Genestoux, Magdeleine
+    alias: Genestoux, Magdeleine du
+    gutenberg_agent_id: '47065'
+    url: http://www.gutenberg.org/2009/agents/47065
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR Jeunesse
+- FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2016-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52829'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: 'Noémie Hollemechette: Journal d''une petite réfugiée belge'
+url: http://www.gutenberg.org/ebooks/52829
